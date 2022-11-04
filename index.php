@@ -9,5 +9,9 @@
 <body>
     <h1>Git remote 2</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus expedita ad laudantium nesciunt? Molestias nisi vel rerum sint dicta quidem consequatur officiis eaque pariatur similique, quasi ratione natus sequi? Harum.</p>
+    <ul>
+        <li>Coba</li>
+        <li>Dulu</li>
+    </ul>
 </body>
 </html>
